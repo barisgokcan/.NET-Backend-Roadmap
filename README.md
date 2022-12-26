@@ -12,7 +12,7 @@ Most of the elements are the same as referenced repository, I also extend the ro
 The todo list below can be also extended in time.
 
 - [ ] Create a documentation template in Notion
-  - As Notion is currently my favorite app to document things, I am open to other alternatives.
+  - Notion is currently my favorite app to document things, but I am open to other alternatives.
 <hr>
 <br>
 
