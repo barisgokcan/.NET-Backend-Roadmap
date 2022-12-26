@@ -13,7 +13,6 @@ The todo list below can be also extended in time.
 
 - [ ] Create a documentation template in Notion
   - As Notion is currently my favorite app to document things, I am open to other alternatives.
-<br>
 <hr>
 <br>
 
