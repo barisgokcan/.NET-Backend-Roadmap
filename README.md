@@ -3,7 +3,7 @@
 
  It includes the levels from zero to hero. 💯
 
- While creating my own roadmap, I was inspired by this [repository](https://github.com/Elfocrash/NET-Backend-Developer-Roadmap). 🙌
+ While creating my own roadmap, I was inspired by this [repository](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap). 🙌
 
  I use [Xmind.works](https://xmind.works/) to edit my roadmap.
 
